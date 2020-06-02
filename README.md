@@ -1,1 +1,0 @@
-# hgn-stage0-task
